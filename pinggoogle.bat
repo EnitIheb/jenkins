@@ -1,3 +1,3 @@
 ipconfig /all
-ping google.com -t
+ping google.com 
 PAUSE
